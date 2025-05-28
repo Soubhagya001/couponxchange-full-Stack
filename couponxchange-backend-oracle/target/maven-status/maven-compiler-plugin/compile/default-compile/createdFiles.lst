@@ -1,0 +1,5 @@
+com\example\couponxchange\controller\CouponController.class
+com\example\couponxchange\repository\CouponRepository.class
+com\example\couponxchange\CouponxchangeApplication.class
+com\example\couponxchange\model\Coupon.class
+com\example\couponxchange\service\CouponService.class
